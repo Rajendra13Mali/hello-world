@@ -8,7 +8,7 @@ Registration Page
 <br>
 <br>
 <form>
-This is reset
+
 <label> First Name </label> 
 <input type="text" name="firstname" size="15"/> <br> <br>
 <label> MiddleName: </label> 
